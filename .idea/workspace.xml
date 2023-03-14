@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46322f35-3bec-47f7-9ec8-f68852ff6ab9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../arrar_arrangement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrar_arrangement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrar_arrangement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrar_arrangement/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrar_arrangement/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrar_arrangement/arrar_arrangement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrar_arrangement/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayB/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayB/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayB/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayB/arrayB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayB/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayMaxMin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayMaxMin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayMaxMin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayMaxMin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayMaxMin/arrayMaxMin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayMaxMin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayTwin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayTwin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayTwin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayTwin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayTwin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrayTwin/arrayTwin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_repeat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/array_repeat/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaryCalculation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaryCalculation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaryCalculation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaryCalculation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaryCalculation/out/production/salaryCalculation/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaryCalculation/out/production/salaryCalculation/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaryCalculation/salaryCalculation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaryCalculation/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salaryCalculation/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boks/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boks/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N1LnocL24dO8UpYzVSH0T3SZtw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46322f35-3bec-47f7-9ec8-f68852ff6ab9" name="Changes" comment="" />
+      <created>1678826812423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678826812423</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
